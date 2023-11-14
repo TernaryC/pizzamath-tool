@@ -1,0 +1,47 @@
+Cat    Number 
+000 00 000
+  Type
+  
+01 Pizza
+  00 Medium
+    000 Any-topping
+	001   1-topping
+	010   2-topping
+	011   3-topping
+	101   5-topping
+	111 Specialty
+  01 Large
+    000 Any-topping
+	001   1-topping
+	010   2-topping
+	011   3-topping
+	111 Specialty
+  10 X-Large
+    000   1-topping
+10 Bread
+  00 Bread Bites
+    000 16-piece
+  01 Bread Twists
+    000 16-piece
+  10 Stuffed Cheesy Bread
+    111 Specialty
+  11 Loaded Tots
+    000 16-piece
+11 Chicken
+  00 Boneless
+    000 8-piece
+	111 Specialty
+  01 Bone-in
+    000 8-piece
+00 Other
+  00 Dip
+	000 Dip Cup
+	001 Baked Dip
+  01 Drink
+    000 20oz
+	001 2-liter
+  10 Other
+    000 Salad
+	001 Sandwich
+	010 Pasta
+	011 Lava Crunch Cake
